@@ -1,0 +1,7 @@
+#
+# System Properties for Sprint LG G6
+#
+
+# Radio
+#ro.telephony.default_network=10
+telephony.lteOnCdmaDevice=1
